@@ -1,3 +1,5 @@
+#For an explanation, visit: http://whywepy.com/index.php/2017/07/18/tor_python/
+
 import socks
 import socket
 import requests
