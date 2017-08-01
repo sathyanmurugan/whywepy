@@ -1,3 +1,5 @@
+#For an explanation, visit: http://whywepy.com/index.php/2017/08/01/multiprocessing-in-python/
+
 import multiprocessing
 import datetime,time
 
